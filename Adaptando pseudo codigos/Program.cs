@@ -10,7 +10,7 @@ namespace Adaptando_pseudo_codigos
     {
         static void Main(string[] args)
         {
-            //            salario_mensal = input('Qual é o seu salário mensal?')
+            //salario_mensal = input('Qual é o seu salário mensal?')
             //horas_trabalhadas_por_mes = input('Quantas horas trabalha por mes?')
             //valor_hora = int(salario_mensal) / int(horas_trabalhadas_por_mes)
             //print(valor_hora)
